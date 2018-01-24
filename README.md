@@ -1,2 +1,3 @@
 # CursoGit02
-Nuevo repo
+Curso de Git en Salamanca
+- Git Ignore VIC
